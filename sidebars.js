@@ -6,6 +6,7 @@ const sidebars = {
       label: 'HTML',
       items: [
         'html-alapok',
+        'html-elemek',
       ],
     },
   ],
