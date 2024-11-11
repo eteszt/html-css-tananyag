@@ -1,3 +1,12 @@
+---
+id: html-alapok
+title: HTML alapok
+description: Bevezetés a HTML használatába és alapvető koncepciók
+sidebar_label: HTML alapok
+sidebar_position: 2
+tags: [HTML, webfejlesztés, alapok]
+keywords: [HTML, weblap, struktúra, címkék, elemek]
+---
 # HTML alapok - Kezdő tananyag
 
 ## 1. Mi a HTML?
