@@ -7,7 +7,7 @@ const sidebars = {
       items: [
         'html-alapok',
         'html-elemek',
-        "html-tablazatok",
+        "html-tablazatok-alapok",
       ],
     },
   ],
