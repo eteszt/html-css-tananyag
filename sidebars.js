@@ -10,6 +10,15 @@ const sidebars = {
         "html-tablazatok-alapok",
       ],
     },
+    {
+      type: 'category',
+      label: 'Kvízek',
+      items: [
+        'kvizek/html-kviz',
+        // később: 'kvizek/css-kviz',
+        // később: 'kvizek/integracio-kviz',
+      ],
+    },
   ],
 };
 
