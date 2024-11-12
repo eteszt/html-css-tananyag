@@ -13,6 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
+  // Live Code blokkok beállítása
+  themes: ['@docusaurus/theme-live-codeblock'],
+
   i18n: {
     defaultLocale: 'hu',
     locales: ['hu'],
@@ -48,6 +51,9 @@ const config = {
     footer: {
       style: 'dark',
       copyright: `Copyright © ${new Date().getFullYear()} HTML és CSS Tananyag`,
+    },
+    liveCodeBlock: {
+      playgroundPosition: 'bottom',
     },
   },
 };

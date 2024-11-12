@@ -98,6 +98,34 @@ Vannak olyan elemek, amelyeknek nincs záró címkéjük:
 3. Mentsd el a fájlt `.html` kiterjesztéssel
 4. Nyisd meg egy böngészőben
 
+## Próbáld ki! - Interaktív HTML szerkesztő
+
+Most kipróbálhatod a HTML kódolást az alábbi interaktív szerkesztőben:
+
+```jsx live
+function HTMLEditor() {
+  return (
+    <div className="language-html live-editor">
+      <h1>Próbáld ki a HTML-t!</h1>
+      <p>Ez egy interaktív példa.</p>
+      <ul>
+        <li>Módosíthatod ezt a kódot</li>
+        <li>Azonnal látod az eredményt</li>
+        <li>Kísérletezz bátran!</li>
+      </ul>
+    </div>
+  );
+}
+```
+
+:::tip Feladatok
+Próbáld ki a következőket:
+1. Változtasd meg a címsort valami másra
+2. Adj hozzá egy új bekezdést (`<p>` elem)
+3. Bővítsd a listát új elemekkel
+4. Próbáld ki a félkövér (`<strong>`) és dőlt (`<em>`) formázást
+:::
+
 ## 5. Gyakorló feladat
 
 Készíts egy egyszerű HTML oldalt, amely tartalmazza:
