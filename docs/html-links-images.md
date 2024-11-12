@@ -180,7 +180,7 @@ Készíts egy egyszerű navigációs menüt:
 
 ### 2. Haladó feladat
 Készíts egy képgalériát:
-- Legalább 3 kép
+- Legalább 4 kép
 - A képekre kattintva nyíljon meg egy részletes oldal
 - Minden képnek legyen megfelelő alt szövege
 
