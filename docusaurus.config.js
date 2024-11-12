@@ -13,8 +13,19 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Live Code blokkok beállítása
-  themes: ['@docusaurus/theme-live-codeblock'],
+  // Live Code blokkok és keresés beállítása
+  themes: [
+    '@docusaurus/theme-live-codeblock',
+    [
+      "@easyops-cn/docusaurus-search-local",
+      {
+        hashed: true,
+        language: ["hu", "en"],
+        highlightSearchTermsOnTargetPage: true,
+        searchResultLimits: 8
+      }
+    ]
+  ],
 
   i18n: {
     defaultLocale: 'hu',
@@ -41,6 +52,10 @@ const config = {
     navbar: {
       title: 'HTML és CSS Tananyag',
       items: [
+        {
+          type: 'search',
+          position: 'right',
+        },
         {
           href: 'https://github.com/eteszt/html-css-tananyag',
           label: 'GitHub',
