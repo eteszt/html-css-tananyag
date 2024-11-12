@@ -3,7 +3,6 @@ const config = {
   tagline: 'Kezdő webfejlesztő tananyag',
   favicon: 'img/favicon.ico',
 
-  // GitHub Pages beállítások
   url: 'https://eteszt.github.io',
   baseUrl: '/html-css-tananyag/',
   organizationName: 'eteszt', 
@@ -13,18 +12,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Live Code blokkok és keresés beállítása
+  // Csak a live-codeblock marad itt
   themes: [
-    '@docusaurus/theme-live-codeblock',
-    [
-      "@easyops-cn/docusaurus-search-local",
-      {
-        hashed: true,
-        language: ["hu", "en"],
-        highlightSearchTermsOnTargetPage: true,
-        searchResultLimits: 8
-      }
-    ]
+    '@docusaurus/theme-live-codeblock'
   ],
 
   i18n: {
@@ -35,7 +25,7 @@ const config = {
   presets: [
     [
       'classic',
-      ({
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
@@ -44,11 +34,19 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
   themeConfig: {
+    // Itt bekapcsoljuk az Algoliát
+    algolia: {
+      // A DocSearch fog adni egy appId-t és API kulcsot
+      appId: 'YOUR_APP_ID',
+      apiKey: 'YOUR_SEARCH_API_KEY',
+      indexName: 'html-css-tananyag'
+    },
+
     navbar: {
       title: 'HTML és CSS Tananyag',
       items: [
@@ -65,7 +63,7 @@ const config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} HTML és CSS Tananyag`,
+      copyright: `Copyright ©TiSoft ${new Date().getFullYear()} HTML és CSS Tananyag`,
     },
     liveCodeBlock: {
       playgroundPosition: 'bottom',
