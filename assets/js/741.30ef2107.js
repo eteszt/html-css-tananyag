@@ -1,1 +1,0 @@
-(self.webpackChunkhtml_css_tananyag=self.webpackChunkhtml_css_tananyag||[]).push([[741],{5741:()=>{}}]);

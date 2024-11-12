@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhtml_css_tananyag=self.webpackChunkhtml_css_tananyag||[]).push([[416],{416:(s,a,n)=>{n.r(a)}}]);
