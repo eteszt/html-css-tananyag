@@ -8,6 +8,17 @@ const sidebars = {
         'html-alapok',
         'html-elemek',
         "html-tablazatok-alapok",
+        "html-links-images"
+      ],
+    },
+    {
+    type: 'category',
+      label: 'CSS',
+      items: [
+        "css-basics",
+        "css-properties",
+        "css-box-model",
+        "html-css-cooperation"
       ],
     },
     {
