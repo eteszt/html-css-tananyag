@@ -68,6 +68,12 @@ const config = {
     liveCodeBlock: {
       playgroundPosition: 'bottom',
     },
+    // Sötét téma alapértelmezettként
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,  // ha true, akkor nem lehet váltani a témák között
+      respectPrefersColorScheme: false, // ha true, akkor a rendszer beállítását követi
+    },
   },
 };
 
