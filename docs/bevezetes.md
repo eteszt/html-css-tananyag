@@ -42,15 +42,15 @@ Hi! Üdvözlünk a HTML és CSS tananyagunkban! Ez a kurzus segít megérteni a 
 
 ## Ajánlott eszközök
 
-### Szövegszerkesztő
-- Visual Studio Code
-- Sublime Text
-- Atom
+### Szövegszerkesztők
+- [Visual Studio Code](https://code.visualstudio.com/) - Ingyenes, sokoldalú kódszerkesztő
+- [Sublime Text](https://www.sublimetext.com/) - Gyors és könnyű szerkesztő
+- [Atom](https://atom.io/) - Testreszabható, nyílt forráskódú szerkesztő
 
-### Böngészők
-- Google Chrome
-- Mozilla Firefox
-- Microsoft Edge
+### Böngészők és Fejlesztői Eszközök
+- [Google Chrome](https://www.google.com/chrome/) és [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+- [Mozilla Firefox](https://www.mozilla.org/firefox/) és [Firefox Developer Tools](https://developer.mozilla.org/docs/Tools)
+- [Microsoft Edge](https://www.microsoft.com/edge) és [Edge DevTools](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium/)
 
 ## Kezdjük el!
 
@@ -64,12 +64,23 @@ Minden lecke végén találsz gyakorlati feladatokat és ellenőrző kérdéseke
 
 ## Segítségre van szükséged?
 
-Ha elakadnál:
-1. Olvasd el újra az adott fejezetet
-2. Nézd meg a példakódokat
-3. Próbáld ki a gyakorlati feladatokat
-4. Használd a megadott külső forrásokat
+Ha elakadnál, itt találsz további segítséget:
+
+### Hivatalos dokumentációk
+- [MDN Web Docs](https://developer.mozilla.org/) - Átfogó webfejlesztési dokumentáció
+- [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
+- [W3Schools CSS Tutorial](https://www.w3schools.com/css/)
+
+### Online gyakorló platformok
+- [Codecademy](https://www.codecademy.com/catalog/language/html-css) - Interaktív HTML & CSS kurzusok
+- [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) - Ingyenes reszponzív webdesign kurzus
+- [CSS-Tricks](https://css-tricks.com/) - CSS technikák és megoldások
+
+### Közösségi segítség
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/html+css) - Kérdések és válaszok
+- [GitHub Discussions](https://github.com/eteszt/html-css-tananyag/discussions) - Beszélgetés a tananyagról
+- [Dev.to](https://dev.to/t/html) - Fejlesztői közösség és cikkek
 
 :::note Megjegyzés
-Ez egy interaktív tananyag, ami folyamatosan fejlődik. Ha hibát találsz vagy javaslatod van, jelezd a GitHub repository-ban!
+Ez egy interaktív tananyag, ami folyamatosan fejlődik. Ha hibát találsz vagy javaslatod van, jelezd a [GitHub repository-ban](https://github.com/eteszt/html-css-tananyag/issues)!
 :::
