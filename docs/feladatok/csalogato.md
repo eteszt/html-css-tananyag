@@ -1,12 +1,12 @@
 ---
 id: erettsegi-iskolacsalogato
-title: Iskolacsalogató weboldal - érettségi feladat megoldás
-sidebar_label: 'Iskolacsalogató érettségi feladat'
+title: Iskolacsalogató weboldal - Érettségi feladat megoldás
+sidebar_label: 'Érettségi - Weboldal megoldás'
 description: 'Az Iskolacsalogató weboldal érettségi feladat hivatalos megoldásának részletes magyarázata'
 keywords: [html, css, érettségi, feladat, megoldás, iskolacsalogató]
 ---
 
-# Iskolacsalogató weboldal - érettségi feladat részletes megoldása
+# Iskolacsalogató weboldal - Érettségi feladat részletes megoldása
 
 ## A feladat leírása
 
@@ -18,8 +18,8 @@ Az emelt szintű érettségi feladatban egy iskolai rendezvény ("Iskolacsalogat
 - A weboldal tartalmát (szövegek, táblázat, kép, hivatkozások) a minta szerint kell kialakítani
 
 ### Források letöltése
-- [csalogato.pdf](/docs/feladatok/csalogato.pdf) - A teljes feladatleírás
-- [csalogato.zip](/docs/feladatok/csalogato.zip) - A forrásfájlok:
+- [csalogato.pdf](/html-css-tananyag/feladatok/csalogato.pdf) - A teljes feladatleírás
+- [csalogato.zip](/html-css-tananyag/feladatok/csalogato.zip) - A forrásfájlok:
   - iskolacsalogato.txt - A weboldal szöveges tartalma
   - plakat.png - A plakát képe
   - csalogato.html és csalogato.css - A módosítandó állományok
@@ -186,7 +186,6 @@ img {
 3. **Táblázat formázásának helye**
    - ❌ HIBÁS: HTML attribútumokkal formázni
    - ✅ HELYES: CSS szabályokat használni
-
 ## A feladat teljes megoldása
 
 ### A teljes HTML kód (csalogato.html)
