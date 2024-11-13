@@ -7,7 +7,7 @@ sidebar_position: 2
 tags: [HTML, webfejlesztés, alapok]
 keywords: [HTML, weblap, struktúra, címkék, elemek]
 ---
-# HTML alapok - Kezdő tananyag
+# HTML alapok
 
 ## 1. Mi a HTML?
 

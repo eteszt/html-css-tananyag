@@ -9,7 +9,7 @@ tags: [css, kezdő]
 ---
 
 
-# CSS alapok - Kezdő tananyag
+# CSS alapok
 
 ## 1. Mi a CSS és mire használjuk?
 

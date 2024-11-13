@@ -8,7 +8,7 @@ sidebar_position: 6
 tags: [css, kezdő]
 ---
 
-# CSS tulajdonságok és értékek - Kezdő tananyag
+# CSS tulajdonságok és értékek
 
 ## 1. Szövegformázás tulajdonságai
 

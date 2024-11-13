@@ -7,7 +7,7 @@ sidebar_position: 3
 tags: [HTML, elemek, címkék]
 keywords: [HTML, címsorok, bekezdések, listák, címkék]
 ---
-# Alapvető HTML elemek - Kezdő tananyag
+# Alapvető HTML elemek
 
 ## 1. Címsorok (Headings)
 

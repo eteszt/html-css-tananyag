@@ -37,7 +37,7 @@ export function QuizQuestion({ question, options, correctAnswer, explanation, on
       {showExplanation && (
         <div className={styles.explanation}>
           <p className={isCorrect ? styles.correct : styles.incorrect}>
-            {isCorrect ? '✓ Helyes válasz!' : '✗ Nem helyes válasz!'}
+            {isCorrect ? '✓ Helyes válasz!' : '✗ Helytelen válasz!'}
           </p>
           <p>{explanation}</p>
         </div>

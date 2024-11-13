@@ -26,8 +26,15 @@ const sidebars = {
       label: 'Kvízek',
       items: [
         'kvizek/html-kviz',
-        // később: 'kvizek/css-kviz',
-        // később: 'kvizek/integracio-kviz',
+        'kvizek/css-kviz',
+        'kvizek/html-css-integration-kviz',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Érettségi feladatok',
+      items: [
+        'feladatok/erettsegi-iskolacsalogato'
       ],
     },
   ],

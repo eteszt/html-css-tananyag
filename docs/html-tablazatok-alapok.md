@@ -7,7 +7,7 @@ sidebar_position: 4
 tags: [HTML, táblázatok, címkék]
 keywords: [HTML, táblázatok]
 ---
-# HTML táblázatok alapjai - Kezdő tananyag
+# HTML táblázatok alapjai
 
 ## 1. Mi a HTML táblázat?
 

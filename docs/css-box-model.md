@@ -8,7 +8,7 @@ sidebar_position: 7
 tags: [css, kezdő]
 ---
 
-# CSS dobozmodell - Kezdő tananyag
+# CSS dobozmodell
 
 ## 1. Mi a dobozmodell?
 

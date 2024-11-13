@@ -8,7 +8,7 @@ sidebar_position: 8
 tags: [html, css, kezdő]
 ---
 
-# HTML és CSS együttműködése - Kezdő tananyag
+# HTML és CSS együttműködése
 
 ## 1. HTML és CSS kapcsolata
 

@@ -8,7 +8,7 @@ sidebar_position: 4
 tags: [html, kezdő]
 ---
 
-# HTML hivatkozások és képek - Kezdő tananyag
+# HTML hivatkozások és képek
 
 ## 1. HTML hivatkozások (linkek)
 
