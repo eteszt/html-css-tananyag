@@ -18,8 +18,8 @@ Az emelt szintű érettségi feladatban egy iskolai rendezvény ("Iskolacsalogat
 - A weboldal tartalmát (szövegek, táblázat, kép, hivatkozások) a minta szerint kell kialakítani
 
 ### Források letöltése
-- [csalogato.pdf](/html-css-tananyag/feladatok/csalogato.pdf) - A teljes feladatleírás
-- [csalogato.zip](/html-css-tananyag/feladatok/csalogato.zip) - A forrásfájlok:
+- [csalogato.pdf](/feladatok/csalogato.pdf) - A teljes feladatleírás
+- [csalogato.zip](/feladatok/csalogato.zip) - A forrásfájlok:
   - iskolacsalogato.txt - A weboldal szöveges tartalma
   - plakat.png - A plakát képe
   - csalogato.html és csalogato.css - A módosítandó állományok
