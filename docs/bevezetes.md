@@ -7,7 +7,7 @@ slug: /
 
 # Bevezetés a HTML és CSS világába
 
-Hi! Üdvözlünk a HTML és CSS tananyagunkban! Ez a kurzus segít megérteni a modern webfejlesztés alapjait.
+Üdvözlünk a HTML és CSS tananyagunkban! Ez a kurzus segít megérteni a modern webfejlesztés alapjait.
 
 ## Mit fogsz tanulni?
 
