@@ -40,11 +40,10 @@ const config = {
 
   themeConfig: {
     // Itt bekapcsoljuk az Algoliát
-    algolia: {
-      // A DocSearch fog adni egy appId-t és API kulcsot
-      appId: 'YOUR_APP_ID',
-      apiKey: 'YOUR_SEARCH_API_KEY',
-      indexName: 'html-css-tananyag'
+     algolia: {
+      appId: 'LAQ6FHSMOW',
+      apiKey: '260ea752e0501843448d76bf91a39edd',
+      indexName: 'etesztio'
     },
 
     navbar: {
