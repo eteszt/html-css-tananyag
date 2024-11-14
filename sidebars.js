@@ -23,7 +23,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Kvízek',
+      label: 'Tudáspróba',
       items: [
         'kvizek/html-kviz',
         'kvizek/css-kviz',
