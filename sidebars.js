@@ -8,7 +8,8 @@ const sidebars = {
         'html-alapok',
         'html-elemek',
         "html-tablazatok-alapok",
-        "html-links-images"
+        "html-links-images",
+        'html-playground',
       ],
     },
     {
