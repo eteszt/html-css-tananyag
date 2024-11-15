@@ -1,7 +1,7 @@
 ---
 id: erettsegi-iskolacsalogato
-title: Iskolacsalogató weboldal - Érettségi feladat megoldás
-sidebar_label: 'Érettségi - Weboldal megoldás'
+title: Iskolacsalogató weboldal - érettségi feladat megoldása
+sidebar_label: 'Iskolacsalogató'
 description: 'Az Iskolacsalogató weboldal érettségi feladat hivatalos megoldásának részletes magyarázata'
 keywords: [html, css, érettségi, feladat, megoldás, iskolacsalogató]
 ---
